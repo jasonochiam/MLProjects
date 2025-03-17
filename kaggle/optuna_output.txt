@@ -1,0 +1,4 @@
+Optuna Optimization Results for xgb1
+---------------------------
+Best Hyperparameters: {'iterations': 353, 'depth': 7, 'learning_rate': 0.07956720031618213, 'l2_leaf_reg': 0.276027530182221, 'border_count': 244, 'bagging_temperature': 0.06341744352542655, 'random_strength': 3.6341569336325765, 'grow_policy': 'Depthwise', 'scale_pos_weight': 6.902333966393473}
+Best Cross-Validation AUC: 0.8866
